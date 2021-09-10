@@ -5,10 +5,7 @@
 #### Contributor Add
 - @aungkyawkyawsoe
 - @zonphyozaw
-<<<<<<< HEAD
-- @khinglinnkyaw
-=======
->>>>>>> feature
+- @khinglinnkyaw 
 
 # New Feature Added
 - feature 1

@@ -9,3 +9,4 @@
 
 # New Feature Added
 - feature 1
+- feature 2
